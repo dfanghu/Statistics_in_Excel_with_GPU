@@ -10,8 +10,8 @@ EXPORTS
 	gpu_xyt
 	gpu_xty
 	gpu_xtyt
-  gpu_xtx
-  gpu_xxt
+	gpu_xtx
+	gpu_xxt
 	gpu_cudaDeviceReset
 	gpu_cudaGetLastError
 	gpu_cudaSetDevice
@@ -29,11 +29,11 @@ EXPORTS
 	gpu_cublasDdot
 	gpu_cublasDnrm2
 	gpu_cublasDgemm
-  gpu_cublasDsymm
+	gpu_cublasDsymm
 	gpu_cublasDsyrk
-  gpu_cublasDgeam
-  gpu_cublasDdgmm
-  gpu_inv
-  gpu_cusolverDnDsyevd
-  gpu_eigsym
-  gpu_eig
+	gpu_cublasDgeam
+	gpu_cublasDdgmm
+	gpu_inv
+	gpu_cusolverDnDsyevd
+	gpu_eigsym
+	gpu_eig
